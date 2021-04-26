@@ -16,12 +16,13 @@ h1{
   text-shadow:2px 2px #F8BBD0;
   font-size:20px;
 }
-#bio{
+#About{
   padding:20px;
+    padding-bottom: 0px;
   font-size:18;
   text-align:center;
     background-color: pink;
-      height: 700px;;
+      height: 500px;;
 }
 .line{
   margin:8px auto;
@@ -71,4 +72,25 @@ p{
 }
 .link:hover{
     background-color: dodgerblue;
+}
+.button{
+    background-color: dodgerblue;
+    height: 50px;
+    width: 150px;
+    font-family: monospace;
+}
+a{
+    text-decoration: none;
+    
+}
+#MFL{
+    height: 500px;
+    background-color: #fc74cd;
+}
+#Work{
+    height: 1000px;
+    background-color: #fa52bf;
+}
+html{
+    scroll-behavior: smooth;
 }
