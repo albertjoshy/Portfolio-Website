@@ -97,4 +97,15 @@ html{
 #mfl{
     font-family: 'Lato',cursive;
 }
+#iphoto{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#iphoto:hover{
+    transform: scale(0.9);
+}
+#ip{
+    height: 500px;
+    background-color: fuchsia;
+}
     
