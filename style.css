@@ -65,10 +65,14 @@ p{
     right: 30px;
     cursor: pointer;
     color: black;
+    position: fixed;
+    background-color: aqua;
 }
 .link{
     float: left;
     margin-right: 10px;
+    
+    
 }
 .link:hover{
     background-color: dodgerblue;
@@ -81,6 +85,7 @@ p{
 }
 a{
     text-decoration: none;
+    
     
 }
 #MFL{
@@ -107,5 +112,12 @@ html{
 #ip{
     height: 500px;
     background-color: fuchsia;
+}
+#contact1{
+    height:500px;
+    background-color: deeppink;
+}
+.l{
+    color: hotpink !important;
 }
     
